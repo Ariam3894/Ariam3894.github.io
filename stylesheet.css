@@ -22,4 +22,11 @@ nav p{
    display: inline-block;
    padding-left: 20px;
 }
+section{
+   margin-top: 40px;
+}
+aside{
+   display: inline block;
+   width: 40px;
+}
 
